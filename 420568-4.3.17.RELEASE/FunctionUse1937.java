@@ -1,0 +1,7 @@
+import org.springframework.beans.factory.xml.NamespaceHandlerSupport;
+public class FunctionUse1937 {
+public void funcUse() {
+NamespaceHandlerSupport namespacehandlersupport = new NamespaceHandlerSupport();
+namespacehandlersupport.findParserForElement(null,null);
+}
+}
